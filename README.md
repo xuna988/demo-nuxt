@@ -1,4 +1,4 @@
-# ssr-blog
+# ssr-nuxt
 
 > Nuxt.js project
 
